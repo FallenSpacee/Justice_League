@@ -1,0 +1,13 @@
+.wrapper {
+  min-height: 100%;
+  overflow: hidden;
+}
+
+._container {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 30px;
+}/*# sourceMappingURL=style.css.map */
